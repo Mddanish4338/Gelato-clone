@@ -1,3 +1,6 @@
+# Project Link : https://66e5e28f273d2dba2667ce10--gelatoclone.netlify.app/
+
+# Video Demo: https://drive.google.com/file/d/1sOjg9fgFmxE48SLA9HG1f9wvzhQVW8N3/view?usp=sharing
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
