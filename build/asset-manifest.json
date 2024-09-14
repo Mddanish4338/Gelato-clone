@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61296c21.css",
+    "main.js": "/static/js/main.8d1f5faf.js",
+    "static/media/GIF_2.gif": "/static/media/GIF_2.d537d3dc19a54af060f4.gif",
+    "static/media/GIF_1.gif": "/static/media/GIF_1.f48bb06d4a1a260c525c.gif",
+    "static/media/why_choose_img.webp": "/static/media/why_choose_img.d73a7ec8f5c5fb79ec8c.webp",
+    "static/media/banner_img.webp": "/static/media/banner_img.d2b2dc98a8f42046e293.webp",
+    "static/media/googleplay.svg": "/static/media/googleplay.912fdbe524b1df0034b695dd2f3b4352.svg",
+    "static/media/meet_img.webp": "/static/media/meet_img.2a253c48a05bf28d6611.webp",
+    "static/media/appstore.svg": "/static/media/appstore.9b5363eec4a4a7b8b2fd9c78c4aae62f.svg",
+    "static/media/gelato_logo_black.svg": "/static/media/gelato_logo_black.31f9f35fe42353720a179b84dc10f23a.svg",
+    "static/media/shopify_monotone_black.svg": "/static/media/shopify_monotone_black.9ed62767cfcafb031236ea092c112e59.svg",
+    "static/media/_logo_footer.svg": "/static/media/_logo_footer.17369ea1d04131c4c81750987c90cd1c.svg",
+    "index.html": "/index.html",
+    "main.61296c21.css.map": "/static/css/main.61296c21.css.map",
+    "main.8d1f5faf.js.map": "/static/js/main.8d1f5faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61296c21.css",
+    "static/js/main.8d1f5faf.js"
+  ]
+}
