@@ -696,7 +696,7 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  position: relative; /* To ensure child elements can be positioned within this container */
+  position: relative;
 }
 
 .footer__left {
